@@ -1,0 +1,6 @@
+empleado_id,nombre,apellido,cargo,email,fecha_contratacion,salario
+301,Bernarda,Atienza,Gerente de Ventas,bernarda.atienza@librosya.com,2021-08-12,45924.47
+302,Carolina,Roselló,Analista de Datos,carolina.roselló@librosya.com,2022-12-17,55403.23
+303,Pili,Tomas,Asistente de Almacén,pili.tomas@librosya.com,2023-09-25,46293.38
+304,Ámbar,Verdugo,Desarrollador/a Senior,ámbar.verdugo@librosya.com,2019-11-27,54648.28
+305,Mercedes,Elorza,Atención al Cliente,mercedes.elorza@librosya.com,2021-03-08,48195.34
